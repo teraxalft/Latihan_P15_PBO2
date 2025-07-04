@@ -1,2 +1,2 @@
-# Latihan_P15_PBO2
-Latihan GraphQL pertemuan 15 
+# Oktria Taranasta (23100011)
+Latihan GraphQL pertemuan 15 - PBO2
